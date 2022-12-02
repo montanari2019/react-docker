@@ -1,2 +1,2 @@
 # React App Docker
-Apenas criação de um app reactpara ultilização de container via docker
+Apenas criação de um app react para ultilização de container via docker
